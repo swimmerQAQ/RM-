@@ -1,0 +1,259 @@
+Added Component: Designator=5V-PORT(KF301-5.0-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=12V-PORT2(KF301-5.0-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=12V-PORT(KF301-5.0-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=IR-DATA(HDR2.54-LI-10P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "10P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "淘宝ID:黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=IR-POWER(HDR2.54-LI-2x10P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "10*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR_FA(PH2.0-LI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR_FB(PH2.0-LI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR_FL(HDR2.54-M-LI-8P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR_FR(HDR2.54-M-LI-8P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR_RA(PH2.0-LI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR_RB(PH2.0-LI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR_RL(HDR2.54-M-LI-8P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR_RR(HDR2.54-M-LI-8P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P_RC(HDR2.54-M-LI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PL(P_M_2x22P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PR(P_M_2x22P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SERVO-DATA(HDR2.54-LI-3P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=SERVO-PWR(HDR2.54-LI-2x3P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "3*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=5V-PORT-1
+Added Pin To Net: NetName=+5 Pin=IR-POWER-1
+Added Pin To Net: NetName=+5 Pin=IR-POWER-3
+Added Pin To Net: NetName=+5 Pin=IR-POWER-5
+Added Pin To Net: NetName=+5 Pin=IR-POWER-7
+Added Pin To Net: NetName=+5 Pin=IR-POWER-9
+Added Pin To Net: NetName=+5 Pin=IR-POWER-11
+Added Pin To Net: NetName=+5 Pin=IR-POWER-13
+Added Pin To Net: NetName=+5 Pin=IR-POWER-15
+Added Pin To Net: NetName=+5 Pin=IR-POWER-17
+Added Pin To Net: NetName=+5 Pin=IR-POWER-19
+Added Pin To Net: NetName=+5 Pin=MOTOR_FL-2
+Added Pin To Net: NetName=+5 Pin=MOTOR_RL-2
+Added Pin To Net: NetName=+5 Pin=P_RC-5
+Added Pin To Net: NetName=+5 Pin=PL-1
+Added Pin To Net: NetName=+5 Pin=PL-2
+Added Pin To Net: NetName=+5 Pin=SERVO-PWR-2
+Added Pin To Net: NetName=+5 Pin=SERVO-PWR-4
+Added Pin To Net: NetName=+5 Pin=SERVO-PWR-6
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=12V-PORT2-1
+Added Pin To Net: NetName=+12 Pin=12V-PORT-1
+Added Pin To Net: NetName=+12 Pin=MOTOR_FL-1
+Added Pin To Net: NetName=+12 Pin=MOTOR_RL-1
+Added Net: Name=+12
+Added Pin To Net: NetName=3V3 Pin=PL-3
+Added Pin To Net: NetName=3V3 Pin=PL-4
+Added Pin To Net: NetName=3V3 Pin=PR-1
+Added Pin To Net: NetName=3V3 Pin=PR-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=FAO1 Pin=MOTOR_FA-1
+Added Pin To Net: NetName=FAO1 Pin=MOTOR_FL-4
+Added Net: Name=FAO1
+Added Pin To Net: NetName=FAO2 Pin=MOTOR_FA-6
+Added Pin To Net: NetName=FAO2 Pin=MOTOR_FL-5
+Added Net: Name=FAO2
+Added Pin To Net: NetName=FBO1 Pin=MOTOR_FB-6
+Added Pin To Net: NetName=FBO1 Pin=MOTOR_FL-7
+Added Net: Name=FBO1
+Added Pin To Net: NetName=FBO2 Pin=MOTOR_FB-1
+Added Pin To Net: NetName=FBO2 Pin=MOTOR_FL-6
+Added Net: Name=FBO2
+Added Pin To Net: NetName=GND Pin=5V-PORT-2
+Added Pin To Net: NetName=GND Pin=12V-PORT2-2
+Added Pin To Net: NetName=GND Pin=12V-PORT-2
+Added Pin To Net: NetName=GND Pin=IR-POWER-2
+Added Pin To Net: NetName=GND Pin=IR-POWER-4
+Added Pin To Net: NetName=GND Pin=IR-POWER-6
+Added Pin To Net: NetName=GND Pin=IR-POWER-8
+Added Pin To Net: NetName=GND Pin=IR-POWER-10
+Added Pin To Net: NetName=GND Pin=IR-POWER-12
+Added Pin To Net: NetName=GND Pin=IR-POWER-14
+Added Pin To Net: NetName=GND Pin=IR-POWER-16
+Added Pin To Net: NetName=GND Pin=IR-POWER-18
+Added Pin To Net: NetName=GND Pin=IR-POWER-20
+Added Pin To Net: NetName=GND Pin=MOTOR_FL-3
+Added Pin To Net: NetName=GND Pin=MOTOR_FL-8
+Added Pin To Net: NetName=GND Pin=MOTOR_FR-1
+Added Pin To Net: NetName=GND Pin=MOTOR_RL-3
+Added Pin To Net: NetName=GND Pin=MOTOR_RL-8
+Added Pin To Net: NetName=GND Pin=MOTOR_RR-1
+Added Pin To Net: NetName=GND Pin=P_RC-6
+Added Pin To Net: NetName=GND Pin=PL-5
+Added Pin To Net: NetName=GND Pin=PL-6
+Added Pin To Net: NetName=GND Pin=PR-3
+Added Pin To Net: NetName=GND Pin=PR-4
+Added Pin To Net: NetName=GND Pin=PR-5
+Added Pin To Net: NetName=GND Pin=PR-6
+Added Pin To Net: NetName=GND Pin=SERVO-PWR-1
+Added Pin To Net: NetName=GND Pin=SERVO-PWR-3
+Added Pin To Net: NetName=GND Pin=SERVO-PWR-5
+Added Net: Name=GND
+Added Pin To Net: NetName=PA2 Pin=PR-32
+Added Pin To Net: NetName=PA2 Pin=SERVO-DATA-1
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=PR-31
+Added Pin To Net: NetName=PA3 Pin=SERVO-DATA-2
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=P_RC-4
+Added Pin To Net: NetName=PA4 Pin=PR-30
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA12 Pin=MOTOR_FR-7
+Added Pin To Net: NetName=PA12 Pin=PL-23
+Added Net: Name=PA12
+Added Pin To Net: NetName=PB0 Pin=P_RC-2
+Added Pin To Net: NetName=PB0 Pin=PR-24
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB5 Pin=MOTOR_FR-6
+Added Pin To Net: NetName=PB5 Pin=PL-37
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=MOTOR_FR-8
+Added Pin To Net: NetName=PB6 Pin=PL-40
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=MOTOR_RR-2
+Added Pin To Net: NetName=PB7 Pin=PL-39
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=MOTOR_FR-2
+Added Pin To Net: NetName=PB8 Pin=PL-42
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=MOTOR_RR-8
+Added Pin To Net: NetName=PB9 Pin=PL-41
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB12 Pin=IR-DATA-2
+Added Pin To Net: NetName=PB12 Pin=PR-11
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=IR-DATA-3
+Added Pin To Net: NetName=PB13 Pin=PR-10
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=IR-DATA-4
+Added Pin To Net: NetName=PB14 Pin=PR-9
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=IR-DATA-5
+Added Pin To Net: NetName=PB15 Pin=PL-8
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC4 Pin=P_RC-3
+Added Pin To Net: NetName=PC4 Pin=PR-26
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC9 Pin=PL-20
+Added Pin To Net: NetName=PC9 Pin=SERVO-DATA-3
+Added Net: Name=PC9
+Added Pin To Net: NetName=PC10 Pin=MOTOR_FR-4
+Added Pin To Net: NetName=PC10 Pin=PL-25
+Added Net: Name=PC10
+Added Pin To Net: NetName=PC12 Pin=MOTOR_FR-3
+Added Pin To Net: NetName=PC12 Pin=PL-27
+Added Net: Name=PC12
+Added Pin To Net: NetName=PD1 Pin=MOTOR_RR-7
+Added Pin To Net: NetName=PD1 Pin=PL-29
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD3 Pin=MOTOR_RR-6
+Added Pin To Net: NetName=PD3 Pin=PL-31
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD5 Pin=MOTOR_RR-4
+Added Pin To Net: NetName=PD5 Pin=PL-33
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD7 Pin=MOTOR_RR-3
+Added Pin To Net: NetName=PD7 Pin=PL-35
+Added Net: Name=PD7
+Added Pin To Net: NetName=PD8 Pin=IR-DATA-1
+Added Pin To Net: NetName=PD8 Pin=PL-7
+Added Net: Name=PD8
+Added Pin To Net: NetName=PE1 Pin=MOTOR_FR-5
+Added Pin To Net: NetName=PE1 Pin=MOTOR_RR-5
+Added Pin To Net: NetName=PE1 Pin=PL-43
+Added Net: Name=PE1
+Added Pin To Net: NetName=PE2 Pin=IR-DATA-6
+Added Pin To Net: NetName=PE2 Pin=PR-44
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE3 Pin=IR-DATA-7
+Added Pin To Net: NetName=PE3 Pin=PR-43
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4 Pin=IR-DATA-8
+Added Pin To Net: NetName=PE4 Pin=PR-42
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=IR-DATA-9
+Added Pin To Net: NetName=PE5 Pin=PR-41
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=IR-DATA-10
+Added Pin To Net: NetName=PE6 Pin=PR-40
+Added Net: Name=PE6
+Added Pin To Net: NetName=PE7 Pin=P_RC-1
+Added Pin To Net: NetName=PE7 Pin=PR-22
+Added Net: Name=PE7
+Added Pin To Net: NetName=RAO1 Pin=MOTOR_RA-6
+Added Pin To Net: NetName=RAO1 Pin=MOTOR_RL-4
+Added Net: Name=RAO1
+Added Pin To Net: NetName=RAO2 Pin=MOTOR_RA-1
+Added Pin To Net: NetName=RAO2 Pin=MOTOR_RL-5
+Added Net: Name=RAO2
+Added Pin To Net: NetName=RBO1 Pin=MOTOR_RB-1
+Added Pin To Net: NetName=RBO1 Pin=MOTOR_RL-7
+Added Net: Name=RBO1
+Added Pin To Net: NetName=RBO2 Pin=MOTOR_RB-6
+Added Pin To Net: NetName=RBO2 Pin=MOTOR_RL-6
+Added Net: Name=RBO2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
