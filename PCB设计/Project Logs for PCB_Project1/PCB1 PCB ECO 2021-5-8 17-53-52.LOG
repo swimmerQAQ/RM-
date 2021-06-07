@@ -1,0 +1,21 @@
+Added Component: Designator=TOF_PIN(HDR2.54-LI-4P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=TOF_PIN-1
+Added Pin To Net: NetName=GND Pin=TOF_PIN-2
+Added Pin To Net: NetName=PA9 Pin=PL-22
+Added Pin To Net: NetName=PA9 Pin=TOF_PIN-3
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=PL-21
+Added Pin To Net: NetName=PA10 Pin=TOF_PIN-4
+Added Net: Name=PA10
+Added Member To Class: ClassName=Sheet1 Member=Component MOTOR_FL MHDR1X8
+Added Member To Class: ClassName=Sheet1 Member=Component MOTOR_FR MHDR1X8
+Added Member To Class: ClassName=Sheet1 Member=Component MOTOR_RL MHDR1X8
+Added Member To Class: ClassName=Sheet1 Member=Component MOTOR_RR MHDR1X8
+Added Member To Class: ClassName=Sheet1 Member=Component PL Header 22X2
+Added Member To Class: ClassName=Sheet1 Member=Component PR Header 22X2
+Added Member To Class: ClassName=Sheet1 Member=Component TOF_PIN HDR-1X4
+Added Room: Name=Sheet1
